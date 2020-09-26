@@ -2,4 +2,4 @@
 
 A simple fullstack chat demo with React and Firebase.
 
-[Live demo]()
+[Live demo](https://rrg-superchat.web.app/)
